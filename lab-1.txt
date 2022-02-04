@@ -1,0 +1,60 @@
+---
+title: "lab 1"
+author: "Danielle Weible"
+date: "1/31/2022"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+
+*danielle weible*
+**danielle weible**
+***danielle weible***
+
+Line one is italicized.
+Line two is in bold.
+Line three is italicized and bold.
+    
+*****
+
+A line appeared in the middle of the page.
+
+******
+
+Another line appeared the same length, but gray.
+
+1. Hello
+    1. Hey
+    2. Hi
+2. Bye
+
+This created a typical list.
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | ---: | :---: | :--- |
+| Notice | what | the | colons |
+| are | doing? | | |
+
+Table: The table with poor spacing
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------: | :------: | :------- |
+| Notice   | what     | the      | colons   |
+| are      | doing?   |          |          |
+
+Table: The table with good spacing
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| -------- | -------: | :------: | :------- | :------- |
+| Notice   | what     | the      | colons   | are      |
+| doing?   |          |          |          |          |
+
+For #5's output I am getting a scatterplot
+
+There is a connection between the output for #5 and #6. They both produce plots.
+
+
+
+
